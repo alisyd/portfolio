@@ -1,0 +1,33 @@
+baseURL: 'http://alisyd.info'
+languageCode: en-us
+title: "Portfolio"
+theme: "PaperMod"
+params:
+    profileMode:
+        enabled: true
+        defaultTheme: dark
+        disableThemeToggle: true
+        title: "Ali's Resume" # optional default will be site title
+        subtitle: "Hello there! <br> thanks for stopping by here"
+        imageUrl: "https://people.com/thmb/FGTANCb4dNNuQvI4dpaTWZk628w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x309:721x311):format(webp)/rick-astley-recreation-never-gonna-give-you-up-081922-1-909d277568c34a599c27fa7503ce7a4c.jpg"
+        imageTitle: "Never gonna give you up" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: about
+              url: "/about"
+            - name: Github
+              url: "https://github.com/alisyd"
+            
+
+        
+
+    socialIcons: # optional
+        - name: "Github"
+          url: "https://github.com/alisyd"
+        - name: "Reddit"
+          url: "https://www.reddit.com/user/cypcake"
+        - name: "Mastodon"
+          url: "https://m.alisyd.info/alihyder"
+        - name: "Linkedin"
+          url: "https://linkedin.com/salihyder"

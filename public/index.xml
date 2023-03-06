@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolio</title>
+    <link>http://alisyd.info/</link>
+    <description>Recent content on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://alisyd.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://alisyd.info/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alisyd.info/about/</guid>
+      <description>Experience Working in a fast-paced environment as a Software Developer/ Machine Learning Engineer on 3 projects simultaneously.
+Worked with a team of 3 to build a user-activity dashboard using React and Material UI,Flask for monitoring and analysing logins, demographics of users on the platform.
+Built an online compiler and code submission platform using Flask and Firebase.
+Projects Automatic Speech to text converter Collaborated with a team of 2 to build an Automatic speech recognition model, trained and improved accuracy using Sentence correction Pipeline.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alisyd.info/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alisyd.info/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>http://alisyd.info/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alisyd.info/archive/</guid>
+      <description>archive</description>
+    </item>
+    
+  </channel>
+</rss>
